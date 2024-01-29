@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &460407203006558748
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 890394491744419740, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2413676460544794919, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5f2bfb75a43ab0e4f835cb30d33107e0, type: 2}
+    - target: {fileID: 3004025006464656142, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3055667542303264134, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3132083413243082041, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4481365136671660471, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4892840268823558011, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5156490082481285918, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5375705640007242619, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Name
+      value: Teleportation_Halo (1) Variant Variant (End Scene)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7529320086642052345, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7798135215077332909, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5f2bfb75a43ab0e4f835cb30d33107e0, type: 2}
+    - target: {fileID: 8699287536924668134, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5f2bfb75a43ab0e4f835cb30d33107e0, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: be570423becc31b44afe97549bcbc7b9, type: 3}
